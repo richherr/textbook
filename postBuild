@@ -2,3 +2,4 @@
 pip install -r requirements.txt 
 jupyter nbextension enable --py --sys-prefix widgetsnbextension
 jupyter nbextension enable --py --sys-prefix bqplot
+python -m pip install -U matplotlib==3.2 datascience
