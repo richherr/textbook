@@ -6,7 +6,6 @@ channels:
   - pytorch
   - pypi
 dependencies:
-  - matplotlib==3.2
   - jupyter-book
   - numpy
   - bqplot
