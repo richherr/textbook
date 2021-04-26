@@ -1,4 +1,0 @@
-matplotlib==3.2
-datascience
-numpy
-bqplot
