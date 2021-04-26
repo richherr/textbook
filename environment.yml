@@ -6,7 +6,3 @@ channels:
   - pytorch
   - pypi
 dependencies:
-  - jupyter-book
-  - numpy
-  - bqplot
-  - scypi
