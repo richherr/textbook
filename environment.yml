@@ -6,3 +6,4 @@ channels:
   - pytorch
   - pypi
 dependencies:
+  - tensorflow
