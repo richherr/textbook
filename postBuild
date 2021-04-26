@@ -1,4 +1,4 @@
 #!/bin/bash
-pip install matplotlib==3.2 datascience
+pip install matplotlib==3.2 datascience 
 jupyter nbextension enable --py --sys-prefix widgetsnbextension
 jupyter nbextension enable --py --sys-prefix bqplot
