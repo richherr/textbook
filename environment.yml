@@ -2,7 +2,9 @@ name: textbook
 
 channels:
   - conda-forge
-
+  - conda 
+  - pytorch
+  - pypi
 dependencies:
   - pip
   - jupyter-book
