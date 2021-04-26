@@ -6,7 +6,6 @@ channels:
   - pytorch
   - pypi
 dependencies:
-  - pip
   - jupyter-book
   - numpy
   - datascience
