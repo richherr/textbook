@@ -8,5 +8,4 @@ channels:
 dependencies:
   - jupyter-book
   - numpy
-  - datascience
   - bqplot
