@@ -7,3 +7,4 @@ channels:
   - pypi
 dependencies:
   - tensorflow
+  - bqplot
