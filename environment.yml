@@ -9,3 +9,4 @@ dependencies:
   - tensorflow
   - bqplot
   - datascience
+  - numpy < 2
