@@ -15,4 +15,3 @@ dependencies:
   - datascience
   - jupyter-book
   - matplotlib==3.2
-  - jupyter_contrib_nbextensions
