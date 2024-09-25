@@ -10,3 +10,4 @@ dependencies:
   - bqplot
   - datascience
   - numpy < 2
+  - seaborn
