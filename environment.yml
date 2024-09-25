@@ -10,4 +10,7 @@ dependencies:
   - bqplot
   - datascience
   - numpy < 2
-  - seaborn
+  - scipy
+  - datascience
+  - jupyter-book
+  - matplotlib==3.2
