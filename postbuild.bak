@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# pip install -r requirements.txt 
+# python -m pip install -U matplotlib==3.2 numpy < 2 scipy bqplot jupyter-book
+## pip install https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tarball/master
+##  jupyter nbextension enable --py --sys-prefix widgetsnbextension
+##  jupyter nbextension enable --py --sys-prefix bqplot
+
