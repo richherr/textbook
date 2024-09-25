@@ -1,3 +1,6 @@
 #!/bin/bash
-jupyter nbextension enable --py --sys-prefix widgetsnbextension
-jupyter nbextension enable --py --sys-prefix bqplot
+conda install -c conda-forge notebook
+conda install -c conda-forge jupyter_contrib_nbextensions
+jupyter contrib nbextension install --user
+jupyter contrib nbextension enable --py --sys-prefix widgetsnbextension
+jupyter contrib nbextension enable --py --sys-prefix bqplot
