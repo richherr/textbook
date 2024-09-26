@@ -16,4 +16,4 @@ dependencies:
   - jupyter-book
   - matplotlib==3.2
   - pandas
-  - ipywidgets==7.0.0
+  - ipywidgets
