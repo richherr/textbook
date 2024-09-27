@@ -18,5 +18,4 @@ dependencies:
   - pandas
   - ipywidgets
   - importlib-metadata
-  - folium>=0.9.1
-  - nbinteract==0.0.12
+  - folium
