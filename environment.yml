@@ -4,5 +4,6 @@ channels:
   - conda-forge
 
 dependencies:
+  - pip
   - pip:
-   -r requirements.txt
+    - -r requirements.txt
