@@ -6,7 +6,7 @@ channels:
   - pytorch
   - pypi
 dependencies:
-  - python=3.8
+  - python=3.7
   - tensorflow
   - bqplot
   - datascience
@@ -17,3 +17,6 @@ dependencies:
   - matplotlib==3.2
   - pandas
   - ipywidgets
+  - importlib-metadata
+  - folium>=0.9.1
+  - nbinteract==0.0.12
