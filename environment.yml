@@ -6,7 +6,7 @@ channels:
   - pytorch
   - pypi
 dependencies:
-  - python=3.7
+  - python=3.8
   - tensorflow
   - bqplot
   - datascience
